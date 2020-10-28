@@ -1,2 +1,2 @@
 # GeneticAlgorithm
-Optimización de la estrategia publicitaria a través de Algoritmos genéticos
+Optimization of the advertising strategy through genetic algorithms
